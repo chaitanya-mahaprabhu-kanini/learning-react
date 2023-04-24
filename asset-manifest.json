@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chaitanya-mahaprabhu-kanini/static/css/main.7d1cf90c.css",
+    "main.js": "/chaitanya-mahaprabhu-kanini/static/js/main.f06b64a4.js",
+    "index.html": "/chaitanya-mahaprabhu-kanini/index.html",
+    "main.7d1cf90c.css.map": "/chaitanya-mahaprabhu-kanini/static/css/main.7d1cf90c.css.map",
+    "main.f06b64a4.js.map": "/chaitanya-mahaprabhu-kanini/static/js/main.f06b64a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d1cf90c.css",
+    "static/js/main.f06b64a4.js"
+  ]
+}
